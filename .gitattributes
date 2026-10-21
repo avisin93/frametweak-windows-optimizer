@@ -1,0 +1,9 @@
+# Language detection rules
+*.bat text eol=crlf
+*.css linguist-detectable   
+*.gif binary
+
+*.map linguist-generated
+docs/* linguist-vendored
+docs/*.html linguist-vendored
+# eof 28d48f3c
